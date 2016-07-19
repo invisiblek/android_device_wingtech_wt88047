@@ -1,2 +1,0 @@
-# Prebuilt webview
-PRODUCT_PREBUILT_WEBVIEWCHROMIUM := yes
